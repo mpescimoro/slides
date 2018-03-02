@@ -7,7 +7,7 @@
 * _config.yml: stores configuration data. 
 * _site: where the generated site will be placed (by default)
 
----
+--
 
 ## Structure
 
