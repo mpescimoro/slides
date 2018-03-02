@@ -13,8 +13,7 @@
 
 A basic Jekyll site usually looks something like this:
 
-{% highlight bash %}
-
+```bash
 ├── _config.yml
 ├── _data
 |   └── members.yml
@@ -36,5 +35,4 @@ A basic Jekyll site usually looks something like this:
 ├── _site
 ├── .jekyll-metadata
 └── index.html
-
-{% endhighlight %}
+```
