@@ -1,10 +1,10 @@
 ## Structure
 
-* _includes: partials that can be mixed and matched by your layouts and posts to facilitate reuse {% fragment %}
-* _layouts: templates that wrap posts {% fragment %}
-* _posts: content goes HERE {% fragment %}
-* _sass: Syntactically Awesome StyleSheets {% fragment %}
-* _config.yml: stores configuration data. {% fragment %}
+* _includes: partials that can be mixed and matched by your layouts and posts to facilitate reuse
+* _layouts: templates that wrap posts
+* _posts: content goes HERE
+* _sass: Syntactically Awesome StyleSheets
+* _config.yml: stores configuration data. 
 * _site: where the generated site will be placed (by default)
 
 ---
